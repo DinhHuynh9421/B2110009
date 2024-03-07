@@ -1,5 +1,4 @@
-# B2110009
-Tôi tên là Huỳnh Quốc Dinh
+# XÂY DỰNG WEBSITE HỆ THỐNG CỬA HÀNG XÊ Ô TÔ ĐÃ QUA SỬ DỤNG VÀ CHO THUÊ TRƯC TUYẾN
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
