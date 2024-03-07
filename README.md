@@ -1,38 +1,5 @@
-# XÂY DỰNG WEBSITE HỆ THỐNG CỬA HÀNG XÊ Ô TÔ ĐÃ QUA SỬ DỤNG VÀ CHO THUÊ TRƯC TUYẾN
-# Foobar
+# Xây Dựng Website Hệ Thống Cửa Hàng Xe Ô Tô Đã Qua Sử Dụng Và Cho Thuê Trực Tuyến
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Xây dựng và triển khai một hệ thống kinh doanh trực tuyến hiện đại, linh hoạt, hiệu quả.
+Nhằm cung cấp dịch vụ bán xe ô tô cũ và cho thuê xe ô tô, đáp ứng nhu cầu đa dạng của khách
+hàng cũng như mang lại lợi ích cho doanh nghiệp.
